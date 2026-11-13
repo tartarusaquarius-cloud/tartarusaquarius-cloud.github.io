@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.malihtalk.lockin",
+      "sha256_cert_fingerprints": [
+        "28:A6:B5:17:76:B8:7D:2B:5A:E7:BA:49:6A:1F:45:85:18:07:62:94:D3:7A:36:78:56:3B:DA:57:18:C4:56:DF"
+      ]
+    }
+  }
+]
